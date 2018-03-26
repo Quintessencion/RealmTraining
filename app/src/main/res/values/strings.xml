@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RealmTraining</string>
+    <string name="children">Дети</string>
+    <string name="adults">Взрослые</string>
+    <string name="elderly">Пожилые</string>
+    <string name="pets">Животные</string>
+    <string name="events">Мероприятия</string>
+    <string name="help_with_things">Помощь вещами</string>
+    <string name="volunteering_1">Волонтерство</string>
+    <string name="prof_help_2">Проф. помощь</string>
+    <string name="help_with_money">Помощь деньгами</string>
+</resources>

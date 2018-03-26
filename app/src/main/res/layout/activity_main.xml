@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.simbirsoft.igorverbkin.realmtraining.MainActivity">
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/edit_query"
+        android:numColumns="1">
+
+    </GridView>
+
+    <EditText
+        android:id="@+id/edit_query"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_layout"
+        android:gravity="center"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:id="@+id/btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:weightSum="3"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="refresh"
+            android:text="Refresh" />
+
+        <Button
+            android:id="@+id/add_person"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="addPerson"
+            android:text="Add person" />
+
+        <Button
+            android:id="@+id/add_person_dog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="addDog"
+            android:text="Add dog" />
+
+    </LinearLayout>
+
+</RelativeLayout>

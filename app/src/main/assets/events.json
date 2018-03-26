@@ -1,0 +1,301 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "eventName": "Добровольные пожертвования",
+      "start": "2018-01-01",
+      "end": "2018-04-21",
+      "fundName": "«Мозаика счастья»",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (937) 512-72-87",
+        "+7 (937) 512-72-87"
+      ],
+      "content": "Участники и болельщики смогли весело и активно провести время на «Петербургском благотворительном марафоне» и при этом финансово поучаствовать в помощи детям. При этом финансово поучаствовать в помощи детям. При этом финансово поучаствовать в помощи детям.",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": false,
+      "contributors": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMWP3fdcyeeEblnf8KBMU1U3m0CeyqcgYIN0AiykDoBBz235Cdg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4YUgZ93MyHALDsl0bR5jm0_zl50c6Yw6lxIqNWLICd2mKoI3K",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCKb333hq1iS7MKFcGTNMLl1Yzhx6baJaAPMydZxQhneZMTuVV",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCmUdWYph-p0IwvaL-4lONV3vI9slokTL25Dx3IDRiajAc666ag",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIPBRxdDO6SQ7DACKfLDMkLN8dzdFjr0NoOv5Up2L0DZYoYGE",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCqCO5zYgf30Wcj8xyxK9XlMXBkIP_e_QQvdrgdM99B2hxN_H",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2ce8-5g8LCRosHKybOxUaZUZvSWWk3NQsG6QX05i_ABP8YVjcw"
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELPING_THINGS",
+        "HELP_MONEY",
+        "PROFESSIONAL_HELP",
+        "BECOME_VOLUNTEER"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_YsLw9J-xvWp-PgIR6_OvvqgkDlQDS4tbCDBqLTLVhjw1qrtdyg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGylVbBL9QzqVpSUKN8vyt0AdM9u7cacMeFFdW3VHEQO5U9JN8fg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmItQqdbundOoPT8dQfpreOMDW8kulykLeQjSPh5_z83FV_1YWVg"
+      ]
+    },
+    {
+      "id": "2",
+      "eventName": "Посещение оздоровительных курортов тайланда",
+      "start": "2018-01-31",
+      "end": "2018-03-31",
+      "fundName": "Благотворительный Фонд В. Потанина",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (937) 199-55-46",
+        "+7 (937) 215-02-07"
+      ],
+      "content": "Мы публикуем полезные материалы с подробным описанием без лишней 'воды', с рабочими (проверенными) примерами. Основная наша задача - это донести материалы максимально просто и понятно до читателя.",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": true,
+      "contributors": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzzL2oaCPjtWjT2zOia21ESFIv3_Kum5ai6mc1PLHy-1cp0sU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlHGldLf-EbzVeiqQJwKUfFo3gPwCPYia05e_K-_eOj1UyMIs"
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELP_MONEY",
+        "PROFESSIONAL_HELP"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN-nGdLRfmmw_5yPeGsVI0aoQcHrU1-3TKcLp_QKqSY1JLw_kCsw",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrd1mle4JKo9fdXX0_xQPXG2HOakn-qE8KMfeC-UlkLEFWItrA",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcyA-7dXNIl5pzUZHsJuwEusPaXN3cZPxH0nMynSxMcgMMKI1yQ"
+      ]
+    },
+    {
+      "id": "3",
+      "eventName": "Поможем спасти...",
+      "start": "2018-02-05",
+      "end": "2018-05-08",
+      "fundName": "Благотворительный фонд Алины Калашниковой",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (936) 549-70-15"
+      ],
+      "content": "",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": false,
+      "contributors": [
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELP_MONEY"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnggLRcBMO-dwQnWb1f6myuKQGacHubvMnMQIZdYMwR2x2xOe",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo3ktKDf779AUr4jlCs3yslLTXqKbyqYPw2gjzZe5f0JOy8zbiA",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfu0y31dN8jP0sktckyL7m7tKUg-9p8colV0Zv18z3xQtjjBIL"
+      ]
+    },
+    {
+      "id": "4",
+      "eventName": "Техническая помощь нуждающимся",
+      "start": "2018-01-01",
+      "end": "2018-04-21",
+      "fundName": "«Во имя жизни»",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (987) 331-72-11",
+        "+7 (937) 412-77-88"
+      ],
+      "content": "1111111111111111 22222222222 333333 44 5555555 666666666666666 7777777 8 9 000000",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": false,
+      "contributors": [
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELP_MONEY"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOcCojDu4ji-1myfA-bGNZ3RRo6BcicLDVhoqkZMQFmjHkjxG_A"
+      ]
+    },
+    {
+      "id": "5",
+      "eventName": "Помощь семьям в трудной жизненной ситуации",
+      "start": "2018-01-01",
+      "end": "2018-06-23",
+      "fundName": "«Детские домики»",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (904) 987-65-43"
+      ],
+      "content": "",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": true,
+      "contributors": [
+      ],
+      "category":"EVENTS",
+      "categoriesHelp": [
+        "HELP_MONEY",
+        "PROFESSIONAL_HELP"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaWzS-I9eHvcLkNyyYEh6sw95Zb-ohAfzgUgMMZxOak5PkQ_bvA"
+      ]
+    },
+    {
+      "id": "6",
+      "eventName": "Танцы без границ",
+      "start": "2018-01-01",
+      "end": "2018-03-09",
+      "fundName": "АНО «СИНЯЯ ПТИЦА»",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (937) 312-00-00",
+        "+7 (904) 111-11-11"
+      ],
+      "content": "",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": true,
+      "contributors": [
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELP_MONEY",
+        "PROFESSIONAL_HELP"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPaNf5HiEM19uR5Fgp0FfEGi_y4XjrBoEmCr5oa462uVbXGzdK"
+      ]
+    },
+    {
+      "id": "7",
+      "eventName": "Веселые выходные в больнице",
+      "start": "2018-03-04",
+      "end": "2018-07-17",
+      "fundName": "Аппарель",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (937) 312-22-01",
+        "+7 (904) 122-13-71"
+      ],
+      "content": "Участники и болельщики смогли весело и активно провести время на «Петербургском благотворительном марафоне» и при этом финансово поучаствовать в помощи детям. При этом финансово поучаствовать в помощи детям. При этом финансово поучаствовать в помощи детям.",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": true,
+      "contributors": [
+      ],
+      "category":"ADULTS",
+      "categoriesHelp": [
+        "HELP_MONEY",
+        "PROFESSIONAL_HELP"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0wE1yTqCkAacii3v0TQn66hUup71Qbfk-XheMLFRDTMPBGj4"
+      ]
+    },
+    {
+      "id": "8",
+      "eventName": "Веселый детский утренник",
+      "start": "2018-02-22",
+      "end": "2018-04-21",
+      "fundName": "Аппарель",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (937) 312-22-01",
+        "+7 (904) 122-13-71"
+      ],
+      "content": "Участники и болельщики смогли весело и активно провести время на «Петербургском благотворительном марафоне» и при этом финансово поучаствовать в помощи детям. При этом финансово поучаствовать в помощи детям. При этом финансово поучаствовать в помощи детям.",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": true,
+      "contributors": [
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELP_MONEY",
+        "PROFESSIONAL_HELP",
+        "BECOME_VOLUNTEER"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfIkC0Rixp_NGb5pTXDTJk6PCjbIUZsrTFo2dVJd1xDaHp33NJA"
+      ]
+    },
+    {
+      "id": "9",
+      "eventName": "\"Добрый сок\" для пожилых",
+      "start": "2018-01-02",
+      "end": "2018-02-26",
+      "fundName": "«Во имя жизни»",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (987) 031-72-11",
+        "+7 (937) 048-61-82"
+      ],
+      "content": "",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": false,
+      "contributors": [
+      ],
+      "category":"ELDERLY",
+      "categoriesHelp": [
+        "HELP_MONEY"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvFk_e2Ojq0JiWXCcn9BATOKw-mKMlswfzeAcyn5XgMC9_-wz"
+      ]
+    },
+    {
+      "id": "10",
+      "eventName": "Развивающие игры - веселые гонки",
+      "start": "2018-01-01",
+      "end": "2018-03-10",
+      "fundName": "«Во имя жизни»",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (987) 331-38-11",
+        "+7 (937) 009-77-83"
+      ],
+      "content": "",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": false,
+      "contributors": [
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELP_MONEY"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaNc3iWfacjngJ-jTVuSSIyaOuBXuIxNMlLCYMcC02590ZKdpGg"
+      ]
+    },
+    {
+      "id": "11",
+      "eventName": "Развивающие игры - веселые гонки",
+      "start": "2018-01-01",
+      "end": "2018-03-10",
+      "fundName": "P.E.A.D",
+      "email": "centr.umka-deti@mail.ru",
+      "address": "Санкт-Петербург, Кирочная улица, д. 50А, каб. 208",
+      "phones": [
+        "+7 (987) 331-38-11",
+        "+7 (937) 009-77-83"
+      ],
+      "content": "",
+      "webSite": "centr.umka-deti@mail.ru",
+      "isEvent": false,
+      "contributors": [
+      ],
+      "category":"CHILDREN",
+      "categoriesHelp": [
+        "HELP_MONEY"
+      ],
+      "photos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaNc3iWfacjngJ-jTVuSSIyaOuBXuIxNMlLCYMcC02590ZKdpGg"
+      ]
+    }
+  ]
+}
